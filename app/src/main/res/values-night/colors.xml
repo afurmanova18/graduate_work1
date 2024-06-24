@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink">#DA0038</color>
+    <color name="pink1">#E3A3B4</color>
+    <color name="profilePrimaryDark">#FF3B30</color>
+    <color name="profileAccentColor">#171717</color>
+    <color name="whiteTextColor">#444444</color>
+    <color name="profileBackground">#171717</color>
+    <color name="blackTextColor">#E5E5E5</color>
+    <color name="profileEditTextColor">#E5E5E5</color>
+    <color name="gray">#FFFFFF</color>
+    <color name="imagecolor">#444444</color>
+</resources>

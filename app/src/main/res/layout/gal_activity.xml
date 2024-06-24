@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GalleryActivity"
+    android:background="@drawable/cut_card_background"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:fontFamily="@font/stengazeta_regular_5"
+        android:text="Галерея"
+        android:textColor="@color/gray"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <GridView
+        android:id="@+id/gridView"
+        android:layout_marginTop="70dp"
+        android:layout_marginBottom="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numColumns="2" />
+    <TextView
+        android:id="@+id/backTextView"
+        android:layout_width="264dp"
+        android:layout_height="179dp"
+        android:layout_below="@id/gridView"
+        android:layout_alignLeft="@id/textView"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="-30dp"
+        android:layout_marginEnd="127dp"
+        android:fontFamily="@font/stengazeta_regular_5"
+        android:text="Назад"
+        android:textColor="@color/gray"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

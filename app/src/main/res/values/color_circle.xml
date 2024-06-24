@@ -1,0 +1,73 @@
+<resources>
+    <integer-array name="color_circle">
+        <item>@color/red</item>
+        <item>@color/pink</item>
+        <item>@color/purple</item>
+        <item>@color/deep_purple</item>
+        <item>@color/blue</item>
+        <item>@color/light_blue</item>
+        <item>@color/green</item>
+        <item>@color/light_green</item>
+        <item>@color/lime</item>
+        <item>@color/yellow</item>
+        <item>@color/orange</item>
+        <item>@color/deep_orange</item>
+        <item>@color/light_pink</item>
+        <item>@color/random_1</item>
+        <item>@color/random_2</item>
+        <item>@color/random_3</item>
+        <item>@color/random_4</item>
+        <item>@color/random_5</item>
+        <item>@color/random_6</item>
+        <item>@color/random_7</item>
+        <item>@color/random_8</item>
+        <item>@color/random_9</item>
+        <item>@color/random_10</item>
+        <item>@color/pastel_1</item>
+        <item>@color/pastel_2</item>
+        <item>@color/pastel_3</item>
+        <item>@color/pastel_4</item>
+        <item>@color/pastel_5</item>
+        <item>@color/pastel_6</item>
+        <item>@color/pastel_7</item>
+        <item>@color/pastel_8</item>
+        <item>@color/pastel_9</item>
+        <item>@color/pastel_10</item>
+        <item>@color/fluorescent_1</item>
+        <item>@color/fluorescent_2</item>
+        <item>@color/fluorescent_3</item>
+        <item>@color/fluorescent_4</item>
+        <item>@color/fluorescent_5</item>
+        <item>@color/fluorescent_6</item>
+        <item>@color/fluorescent_7</item>
+        <item>@color/fluorescent_8</item>
+        <item>@color/fluorescent_9</item>
+        <item>@color/fluorescent_10</item>
+        <item>@color/pastel_blue_1</item>
+        <item>@color/pastel_blue_2</item>
+        <item>@color/pastel_blue_3</item>
+        <item>@color/pastel_blue_4</item>
+        <item>@color/pastel_blue_5</item>
+        <item>@color/pastel_green_1</item>
+        <item>@color/pastel_green_2</item>
+        <item>@color/pastel_green_3</item>
+        <item>@color/pastel_green_4</item>
+        <item>@color/pastel_green_5</item>
+        <item>@color/pastel_orange_1</item>
+        <item>@color/pastel_orange_2</item>
+        <item>@color/pastel_orange_3</item>
+        <item>@color/pastel_orange_4</item>
+        <item>@color/pastel_orange_5</item>
+        <item>@color/pastel_yellow_1</item>
+        <item>@color/pastel_yellow_2</item>
+        <item>@color/pastel_yellow_3</item>
+        <item>@color/pastel_yellow_4</item>
+        <item>@color/pastel_yellow_5</item>
+
+
+
+
+
+
+    </integer-array>
+</resources>

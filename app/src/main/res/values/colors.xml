@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink">#F9A8D6</color>
+    <color name="pink1">#ffc2d1</color>
+    <color name="profilePrimaryDark">#FF3B30</color>
+    <color name="profileAccentColor">#F7F7F7</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="profileBackground">#fff</color>
+    <color name="blackTextColor">#000</color>
+    <color name="profileEditTextColor">#707070</color>
+    <color name="gray">#808286</color>
+    <color name="imagecolor">#444444</color>
+
+
+
+
+
+    <color name="red">#FF0000</color>
+    <color name="yellow">#FFD300</color>
+    <color name="green">#7CE700</color>
+    <color name="blue">#162EAE</color>
+    <color name="orange">#FF9000</color>
+    <color name="purple">#9303A7</color>
+    <color name="deep_purple">#48036F</color>
+    <color name="light_green">#45A25E</color>
+    <color name="light_blue">#4BA3C5</color>
+    <color name="deep_orange">#8F540A</color>
+    <color name="lime">#B8D51E</color>
+    <color name="light_pink">#E8B5CB</color>
+    <color name="random_1">#F83A69</color>
+    <color name="random_2">#3F4DAA</color>
+    <color name="random_3">#9C1D30</color>
+    <color name="random_4">#79A1C1</color>
+    <color name="random_5">#01A9DB</color>
+    <color name="random_6">#F7C7DB</color>
+    <color name="random_7">#C1876B</color>
+    <color name="random_8">#4ECDC4</color>
+    <color name="random_9">#FD01A5</color>
+    <color name="random_10">#FFB6C1</color>
+    <color name="pastel_1">#FADADD</color>
+    <color name="pastel_2">#A0E3B1</color>
+    <color name="pastel_3">#FFD3B5</color>
+    <color name="pastel_4">#B3DDEF</color>
+    <color name="pastel_5">#FFC2E6</color>
+    <color name="pastel_6">#E2D1CC</color>
+    <color name="pastel_7">#FFDFBF</color>
+    <color name="pastel_8">#D2E9E5</color>
+    <color name="pastel_9">#BBD1EA</color>
+    <color name="pastel_10">#E4C7DE</color>
+    <color name="fluorescent_1">#CCFF00</color>
+    <color name="fluorescent_2">#FF00FF</color>
+    <color name="fluorescent_3">#00FF00</color>
+    <color name="fluorescent_4">#00FFFF</color>
+    <color name="fluorescent_5">#FF0099</color>
+    <color name="fluorescent_6">#FFFF00</color>
+    <color name="fluorescent_7">#FF6600</color>
+    <color name="fluorescent_8">#9900FF</color>
+    <color name="fluorescent_9">#00FF99</color>
+    <color name="fluorescent_10">#FF3300</color>
+    <color name="pastel_blue_1">#A8D3E6</color>
+    <color name="pastel_green_1">#B1CCB0</color>
+    <color name="pastel_blue_2">#B5DCEC</color>
+    <color name="pastel_green_2">#C3C1A3</color>
+    <color name="pastel_blue_3">#C4E4F6</color>
+    <color name="pastel_green_3">#CFC1B1</color>
+    <color name="pastel_blue_4">#D3EBF8</color>
+    <color name="pastel_green_4">#DBD7C3</color>
+    <color name="pastel_blue_5">#D9F0FC</color>
+    <color name="pastel_green_5">#E8E5D5</color>
+    <color name="pastel_yellow_1">#FBE5B5</color>
+    <color name="pastel_orange_1">#F7B29B</color>
+    <color name="pastel_yellow_2">#FCEFC5</color>
+    <color name="pastel_orange_2">#FBCAAA</color>
+    <color name="pastel_yellow_3">#FFF8D6</color>
+    <color name="pastel_orange_3">#FDECB1</color>
+    <color name="pastel_yellow_4">#FFFCE1</color>
+    <color name="pastel_orange_4">#FFE5A8</color>
+    <color name="pastel_yellow_5">#FFFFF0</color>
+    <color name="pastel_orange_5">#FFF1C9</color>
+</resources>
